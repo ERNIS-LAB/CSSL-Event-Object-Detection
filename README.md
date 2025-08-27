@@ -1,5 +1,17 @@
 # CSSL-Event-Object-Detection
 
+## Citation ##
+
+Shenqi Wang and Guangzhi Tang, **"Context-aware Sparse Spatiotemporal Learning for Event-based Vision,"** 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
+
+```bibtex
+@inproceedings{wang2025context,
+  author={Wang, Shenqi and Tang, Guangzhi},
+  booktitle={2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
+  title={Context-aware Sparse Spatiotemporal Learning for Event-based Vision}, 
+  year={2025},
+  pages={1-7}}
+```
 
 ## Dependencies
 ### Prophesee Metavision SDK
